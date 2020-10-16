@@ -1,5 +1,5 @@
 # zeromq	 
-version = 4.3.2
+version = 4.3.3
 release = 1
 name = zeromq
 full_name = $(name)-$(version)
